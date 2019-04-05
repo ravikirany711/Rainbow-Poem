@@ -1,0 +1,37 @@
+The javascript is different from other languages
+
+javascript is a dynamically typed language
+
+The concept of scope chain exists in javascript
+
+The concept of hoisting exists in javascript
+
+Every web application which includes a lot of complexity involves javascript
+
+when writing code in javascript , The engine creates a global window object and this keyword
+
+The keyword this refers to global window object under certain circumstances,and it also belongs to that certain object in which it was defined
+
+Many web applications are powered by javascript
+
+javascript is the most widely used programming language
+
+There are many technologies based on the javascript language , such as node js , react js , express js and mongoose and mongo db
+
+Every function when invoked createsa new execution context , on top of the gloal context or the stack
+
+An event loop is a important concept in javascript , which helps run functions asynchronously
+
+javascript is a single threaded language (one process ata time)
+
+The event loop consists of various events , which are pushed on top of the stack , when the stack is empty
+
+The event doesnot get triggered until the execution stack is empty
+
+Functions are also objects in javascript
+
+objects can be created in 3 different ways such as .......{},new Object,var person={}
+
+arrays are collection of objects which can also be created in three different ways .....[],new Array(),var fox=[]
+
+JS is weird but thats what makes it most powerful and different from all the other programming language
